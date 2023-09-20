@@ -2,8 +2,11 @@
     "name": "clave-constants",
     "version": "0.1.0",
     "description": "A library developed so that variables with fixed values can be used by all modules.",
-    "author": "aalimsahin <alim@clave.team> (https://github.com/getclave)",
+    "author": "getclave.io",
     "main": "index.ts",
+    "scripts": {
+        "lint-check": "eslint \"./**/*.ts\""
+      },
     "repository": "https://github.com/getclave/clave-constants",
     "bugs": {
         "url": "https://github.com/getclave/clave-constants/issues"
