@@ -3,6 +3,6 @@
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
  */
-export * from './ABI';
-export * from './API';
-export * from './address/address';
+export const CONSTANT_ADDRESSES = {
+    MULTICALL3: '0xF9cda624FBC7e059355ce98a31693d299FACd963',
+};
