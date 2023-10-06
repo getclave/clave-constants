@@ -6,3 +6,4 @@
 export * from './abi';
 export * from './api';
 export * from './address';
+export * from './tokens';
