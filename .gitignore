@@ -1,5 +1,5 @@
-# Outputs
-dist
+# Output
+dist/
 
 # Dependencies
 node_modules

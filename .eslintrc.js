@@ -46,6 +46,7 @@ module.exports = {
         '@typescript-eslint/no-require-imports': 'warn',
         '@typescript-eslint/switch-exhaustiveness-check': 'error',
         '@typescript-eslint/promise-function-async': 'warn',
+        '@typescript-eslint/consistent-type-imports': 'warn',
 
         // Extension Rules
         'no-unused-vars': 'off',
