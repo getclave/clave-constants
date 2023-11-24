@@ -41,7 +41,7 @@
     "zksync"
   ],
   "description": "Mostly used constants for Clave",
-  "main": "dist/index.js",
+  "main": "index.ts",
   "types": "dist/index.d.ts",
   "publisher": "getclave.io",
   "scripts": {
